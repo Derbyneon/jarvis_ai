@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200430398732",
+    "project_id": "jarvis-c43cf",
+    "storage_bucket": "jarvis-c43cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200430398732:android:3fa1bb2cc125067791ed29",
+        "android_client_info": {
+          "package_name": "com.example.jarvis_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6FhhtUj2DJXv2f2r3Gc4ZxLGKbh4EC-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
